@@ -29,7 +29,7 @@ Move into the project directory to perform further setup.
 
 3. Install the required dependencies:
 
-```shell
+
 pip install -r requirements.txt
 
 This command will install all the necessary Python packages and dependencies for the project.
