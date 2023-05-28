@@ -1,30 +1,19 @@
-# Python on Replit
+# Google Calendar Integration
 
-This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
+This project provides integration with the Google Calendar API to fetch events from a user's primary calendar.
 
-## Running the repl
+## Prerequisites
 
-1. Setup a new secret environment variable (the lock icon) where the key is `SECRET_KEY` and the value is
-   a randomly generated token of 32 bits of randomnese. To generate such a token type this into the shell and hit Enter:
-```
-python
-import secrets
-secrets.token_urlsafe(32)
-```
-2. Hit run!
+Before running the project, make sure you have the following:
 
-See this 1 minute video for a walkthrough: [https://www.loom.com/share/ecc4e738149f4d1db3bcff01758b3e71](https://www.loom.com/share/341b5574d12040fb9fcbbff150777f1c)
+- Python (version 3.x) installed on your system.
+- Access to the internet to communicate with the Google Calendar API.
 
-## Installing packages
+## Installation
 
-To add packages to your repl, you can just import directly in the file you want to use the package in, and it will automatically be installed when you press the run button. Like below:
-```python
-import math
-import pandas as pd
-```
+To get started with the Google Calendar Integration project, follow the steps below:
 
-You could also install packages by using the Replit packager interface in the left sidebar.
+1. Clone the repository to your local machine using the following command:
 
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+   ```shell
+   git clone <repository-url>
