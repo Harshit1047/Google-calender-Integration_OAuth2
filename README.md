@@ -16,7 +16,7 @@ To get started with the Google Calendar Integration project, follow the steps be
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone 
+   git clone "https://github.com/Harshit1047/Google-calender-Integration_OAuth2.git"
    ```
    
 This will create a local copy of the project on your machine.
