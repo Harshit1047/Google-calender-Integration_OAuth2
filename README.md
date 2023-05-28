@@ -24,7 +24,7 @@ This will create a local copy of the project on your machine.
 2. Navigate to the project directory:
 
    ```bash
-   cd Google-calendar-Integration 
+   cd Google-calender-Integration_OAuth2
    ```
 
 Move into the project directory to perform further setup.
