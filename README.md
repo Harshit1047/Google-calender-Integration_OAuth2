@@ -23,7 +23,7 @@ This will create a local copy of the project on your machine.
 2. Navigate to the project directory:
 
  ```shell
-cd Google-calendar-Integration ```
+cd Google-calendar-Integration 
 
 Move into the project directory to perform further setup.
 
