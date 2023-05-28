@@ -15,26 +15,29 @@ To get started with the Google Calendar Integration project, follow the steps be
 
 1. Clone the repository to your local machine using the following command:
 
-   ```
+   ```bash
    git clone <repository-url>
+   ```
    
 This will create a local copy of the project on your machine.
 
 2. Navigate to the project directory:
 
- ```
+ ```bash
  cd Google-calendar-Integration 
+ ```
 
 Move into the project directory to perform further setup.
 
 3. Install the required dependencies:
 
-
+```bash
 pip install -r requirements.txt 
+```
 
 This command will install all the necessary Python packages and dependencies for the project.
 
-##Usage
+## Usage
 
 To use the Google Calendar Integration, you need to configure the Google Calendar API and update the project settings. Follow the steps below:
 
@@ -44,8 +47,9 @@ To use the Google Calendar Integration, you need to configure the Google Calenda
 
 Run the development server:
 
-
+```bash
 python manage.py runserver
+```
 
 This will start the Django development server, and you can access the project in your web browser at `http://localhost:8000`.
 
