@@ -47,9 +47,9 @@ To use the Google Calendar Integration, you need to configure the Google Calenda
 
 Run the development server:
 
-   ```bash
-   python manage.py runserver
-   ```
+    ```bash
+    python manage.py runserver
+    ```
 
 This will start the Django development server, and you can access the project in your web browser at `http://localhost:8000`.
 
