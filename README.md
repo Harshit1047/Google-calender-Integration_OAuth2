@@ -23,14 +23,14 @@ This will create a local copy of the project on your machine.
 2. Navigate to the project directory:
 
  ```
-cd Google-calendar-Integration ```
+cd Google-calendar-Integration 
 
 Move into the project directory to perform further setup.
 
 3. Install the required dependencies:
 
-```
-pip install -r requirements.txt ```
+
+pip install -r requirements.txt 
 
 This command will install all the necessary Python packages and dependencies for the project.
 
